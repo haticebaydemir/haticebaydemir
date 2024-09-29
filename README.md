@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! 👋, I'm Hatice</h1>
 <h3 align="center">Passionate AI/ ML Engineer from Turkey</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ardakaymaz&label=Profile%20views&color=0e75b6&style=plastic" alt="emre" />
 </p>
 
 - 💪🏻 *AI/ ML Engineer* , *LLM Promt Engineer* and *Data Science*
