@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haticebaydemir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haticebaydemir)
-[![Email](https://img.shields.io/badge/Email-haticebaydemir@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baydemirhatice@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-baydemirhatice@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baydemirhatice@hotmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-haticebaydemir-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haticebaydemir)
 
 <img src="https://komarev.com/ghpvc/?username=haticebaydemir&color=9D4EDD&style=for-the-badge&label=Profile+Views"/>
