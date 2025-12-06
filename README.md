@@ -1,27 +1,56 @@
-<h1 align="center">Hi there! 👋, I'm Hatice</h1>
-<h3 align="center">Passionate AI/ ML Engineer from Turkey</h3>
+<h1 align="center">👋 Hi, I'm Hatice Baydemir</h1>
+<h3 align="center">AI & Computer Vision Researcher | Multimodal Systems | FastAPI | LLMs | ML Engineering</h3>
 
-</p>
+---
 
-- 💪🏻 *AI/ ML Engineer* , *LLM Promt Engineer* and *Data Science*
-- 🔭 Currently working on *Machine Learning*
-- ⚡ Python: *NumPy, Pandas, Seaborn, SciKit-Learn, Matplotlib, SciPy*
+## 🚀 About Me
+I’m an **AI & Machine Learning Engineer** specializing in **Multimodal E-Commerce, Computer Vision, NLP, and retrieval-based systems.**  
 
-# 💻 Tech Stack:
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white)
+Currently, I'm leading a **TÜBİTAK-funded research project** focused on building a *production-grade multimodal search and recommendation system* using hybrid vision-language models.
 
+I enjoy developing AI systems that:
+- understand images and text together,
+- reason over product metadata,
+- and provide intelligent user-centric search results.
 
-<h3 align="right">Connect with me</h3>
-<p align="right">
-  <a href="(https://www.linkedin.com/in/haticebaydemir/)" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haticee" height="20" width="20" />
-  </a>
-    
-</p>
+---
 
- <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg">
-</picture>
+## 🧠 Current Focus
+- Multimodal Retrieval (CLIP + Text Embeddings)
+- Hybrid Vector Search (FAISS)
+- FastAPI based production systems
+- Chatbot via LLM reasoning & prompt engineering
+- Human-evaluation frameworks for Search/RecSys
+
+---
+
+## 🧩 My Research Project
+> **User-Based Multimodal E-Commerce Search and Recommendation**
+- image understanding (OpenAI CLIP)
+- hybrid blending
+- multi-stage re-ranking
+- semantic product search
+- TR/EN query understanding
+- Phase-F human benchmarking
+- multimodal chatbot
+
+---
+
+## 🛠 Tech Stack
+**Languages:** Python  
+**ML & AI:** PyTorch, SentenceTransformers, CLIP, Transformers  
+**Search:** FAISS, vector similarity, semantic retrieval  
+**Backend:** FastAPI, REST API  
+**Data Science:** NumPy, Pandas, SciKit-Learn  
+**Visualization:** Matplotlib, Seaborn  
+
+---
+
+## 🔗 Connect With Me  
+<a href="https://www.linkedin.com/in/haticebaydemir/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" width="120"/>
+</a>
+
+---
+
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ArdaKaymaz/ArdaKaymaz/output/github-contribution-grid-snake.svg">
