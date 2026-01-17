@@ -12,6 +12,7 @@
 <p align="center">
   <a href="https://github.com/haticebaydemir">GitHub</a> •
   <a href="https://www.linkedin.com/in/haticebaydemir">LinkedIn</a> •
+  <a href="https://huggingface.co/HaticeB">Hugging Face</a> •
   <a href="mailto:baydemirhatice@hotmail.com">Mail</a>
 </p>
 
@@ -34,56 +35,74 @@ I enjoy turning research ideas into **working, testable, and scalable systems**.
 
 ## 🚀 Featured Work
 
-### 🛍️ Multimodal Search & Recommendation System
+### 🛍️ AI Fashion Assistant v2.5 - Multimodal Search & Recommendation System
 
-An AI system that understands products using **both text and images**.
+A production-ready AI system that understands products using **both text and images**, with **GenAI features** including RAG pipeline and AI agents.
 
 **What it includes:**
-- Semantic text search  
-- Image-based similarity search  
-- Text–image fusion  
-- Vector search with FAISS  
-- Ranking & evaluation (NDCG, Recall, MRR)  
-- End-to-end ML pipeline  
+- Semantic text search
+- Image-based similarity search
+- Text–image fusion (learned α=0.7)
+- Vector search with FAISS
+- **RAG pipeline with LLMs**
+- **AI agent with conversation memory**
+- **Personalization system**
+- Ranking & evaluation (NDCG, Recall, MRR)
+- **Full-stack application (React + FastAPI + MongoDB)**
+- End-to-end ML pipeline
+
+**Results:**
+- **97.4% NDCG@10** (search performance)
+- **SUS 84.50 (Grade A)** - user study with 25 participants
+- **92% real-world usage intent**
+- **100% AI agent success rate**
 
 **Tech used:**
-- CLIP  
-- Sentence Transformers  
-- FAISS  
-- LightGBM  
-- FastAPI  
+- CLIP, Sentence Transformers
+- FAISS, LightGBM
+- **GROQ (Llama-3.3-70B), LangChain**
+- **FastAPI, React, MongoDB**
 
-📌 Repo:  
-👉 https://github.com/haticebaydemir/ai-fashion-assistant-v2  
+📌 **Repository:**  
+👉 https://github.com/haticebaydemir/ai-fashion-assistant-v2
+
 
 ---
 
 ## 🧩 What I Work With
 
 ### 🤖 Machine Learning & AI
-- Supervised / Unsupervised Learning  
-- Representation Learning  
-- Multimodal Models  
-- Generative AI  
-- Model Evaluation  
+- Supervised / Unsupervised Learning
+- Representation Learning
+- Multimodal Models
+- **Generative AI (RAG, AI Agents, LLMs)**
+- Model Evaluation
 
 ### 🖼️ Computer Vision
-- Image embeddings  
-- Visual similarity search  
-- CLIP-based vision–language models  
-- Image processing  
+- Image embeddings
+- Visual similarity search
+- CLIP-based vision–language models
+- Image processing
 
 ### 🧾 NLP
-- Semantic search  
-- Sentence embeddings  
-- Text similarity  
-- Query understanding  
+- Semantic search
+- Sentence embeddings
+- Text similarity
+- Query understanding
+- **LLM integration & prompt engineering**
 
 ### 🔍 Search & Retrieval
-- FAISS vector search  
-- Dense retrieval  
-- Ranking & evaluation  
-- Hybrid search systems  
+- FAISS vector search
+- Dense retrieval
+- Ranking & evaluation
+- Hybrid search systems
+- **Retrieval-Augmented Generation (RAG)**
+
+### 💻 Full-Stack Development
+- **FastAPI, React**
+- **MongoDB, PostgreSQL**
+- **JWT authentication**
+- **Deployment (Hugging Face, Docker)**
 
 ---
 
@@ -99,24 +118,32 @@ An AI system that understands products using **both text and images**.
 ![CLIP](https://img.shields.io/badge/CLIP-412991?style=flat)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat)
 
+### GenAI
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat)
+![GROQ](https://img.shields.io/badge/GROQ-F55036?style=flat)
+
 ### Data & Search
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat)
 
-### Backend
+### Backend & Frontend
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat)
 
 ---
 
 ## 📌 Currently Interested In
-- Multimodal AI  
-- Semantic search systems  
-- Generative AI  
-- Retrieval-augmented pipelines  
-- Applied machine learning  
+
+- Multimodal AI
+- Semantic search systems
+- Generative AI (RAG, Agents)
+- Retrieval-augmented pipelines
+- Applied machine learning
+- **Full-stack AI applications**
 
 ---
 
